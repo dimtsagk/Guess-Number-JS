@@ -17,3 +17,6 @@ If your guess is too high, the message will say "Too High. Try again.".
 
 5. Changing the Background Color:
 For a fun change of scenery, you can click the "Change Background Color!!" button.
+
+## Play from the link below:
+https://dimtsagk.github.io/dtguessnumjs/
