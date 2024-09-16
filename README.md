@@ -1,4 +1,4 @@
-# Django-Weather
+# Guess-Number-JS
 Guess the number game
 
 ## How to Play "Guess My Number"
@@ -19,7 +19,7 @@ If your guess is too high, the message will say "Too High. Try again.".
 For a fun change of scenery, you can click the "Change Background Color!!" button.
 
 ## Play from the link below:
---> https://dimtsagk.github.io/dtguessnumjs/
+--> https://dimtsagk.github.io/Guess-Number-JS/
 
 ![guessnum1](https://github.com/user-attachments/assets/7419d2d8-082a-4baf-ad83-7167e320d72d)
 ![guessnum2](https://github.com/user-attachments/assets/6846811d-c172-4e73-81c5-f2b4bd0a5df9)
