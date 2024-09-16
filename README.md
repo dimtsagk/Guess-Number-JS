@@ -1,4 +1,4 @@
-# dtguessnumjs
+# Django-Weather
 Guess the number game
 
 ## How to Play "Guess My Number"
