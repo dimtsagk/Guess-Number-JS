@@ -21,7 +21,7 @@ For a fun change of scenery, you can click the "Change Background Color!!" butto
 ## Play from the link below:
 --> https://dimtsagk.github.io/Guess-Number-JS/
 
-![guessnum1](https://github.com/user-attachments/assets/7419d2d8-082a-4baf-ad83-7167e320d72d)
+![361508394-7419d2d8-082a-4baf-ad83-7167e320d72d](https://github.com/user-attachments/assets/5156c83d-aa79-4ab7-b88d-529dcbfd16d7)
 ![guessnum2](https://github.com/user-attachments/assets/6846811d-c172-4e73-81c5-f2b4bd0a5df9)
 
 
